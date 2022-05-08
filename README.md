@@ -30,7 +30,7 @@
  
 </div>
   
-![Snake animation](https://github.com/rafaballerini/SavioSalesSantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SavioSalesSantos/SavioSalesSantos/blob/output/github-contribution-grid-snake.svg)
   
   
    
