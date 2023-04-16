@@ -1,6 +1,6 @@
 ##  Oi, eu sou Savio!
 
-- 🔭 Qa Analyst em formação
+- 🔭 QA Engineer 
 - 🌱 Academico em Engenharia de Software
  
 
